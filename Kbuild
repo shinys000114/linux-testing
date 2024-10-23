@@ -106,3 +106,6 @@ else
 	obj-y		+= $(COMMON_DRIVERS_DIR)/samples/
 endif
 endif
+ifneq ($(MEDIA_DRIVERS_DIR),)
+	obj-m		+= $(MEDIA_DRIVERS_DIR)/drivers/
+endif

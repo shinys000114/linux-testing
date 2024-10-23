@@ -5,5 +5,5 @@
 
 [submodule "media_modules"]
 	path = media_modules
-	url = https://git.linuxfactory.or.kr:29418/yocto/platform/hardware/amlogic/media_modules.git
+	url = ssh://git.linuxfactory.or.kr:29418/yocto/platform/hardware/amlogic/media_modules.git
 	branch = odroids7d-6.12.y_yocto-kirkstone-bsp-v6.12
