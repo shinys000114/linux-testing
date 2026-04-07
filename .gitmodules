@@ -1,0 +1,4 @@
+[submodule "common_drivers"]
+	path = common_drivers
+	url = ssh://git.linuxfactory.or.kr:29418/yocto/kernel/common_drivers.git
+	branch = odroids7d-6.12.y_yocto-kirkstone-bsp-v6.12
