@@ -107,5 +107,5 @@ else
 endif
 endif
 ifneq ($(MEDIA_DRIVERS_DIR),)
-	obj-m		+= $(MEDIA_DRIVERS_DIR)/drivers/
+	obj-y		+= $(MEDIA_DRIVERS_DIR)/drivers/
 endif
